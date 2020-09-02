@@ -2,7 +2,7 @@
 # **Aladdin** 
 ## Future Communications Research
 
-For collaborators: Please kindly [upload](https://github.com/aladdin-neu/aladdin-neu.github.io) your documents. 
+For collaborators: Please kindly [**upload**](https://github.com/aladdin-neu/Meeting-Documents) your documents. 
 
 ### Major Methodologies:
 Circuit Theory, Complex Networks, and Data-Driven Approaches
