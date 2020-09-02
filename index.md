@@ -22,4 +22,4 @@ Circuit Theory, Complex Networks, and Data-Driven Approaches
 
 [More reseaches](https://scholar.google.com.hk/citations?user=BDEsGscAAAAJ&hl=zh-CN)
 
-September 2020
+Zi-Yang Wu, September 2020
