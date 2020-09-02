@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/aladdin-neu/aladdin.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# **Aladdin** 
+## Future Communications Research
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Major Methodologies:
+Circuit Theory, Complex Networks, and Data-Driven Approaches
 
-### Markdown
+### Fields of current interest:
+- Optical Wireless Communications (OWC), especially Visible Light Communications (VLC).
+- Heterogeneous Networks (HetNet) via Multiple Wireless Mediums.
+- Indoor Positioning via Visible Light.
+- Intelligent Wireless Environment.
+- Cross-layer Optimization on Networks.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Highlighted Researches:
+- **Indoor Mobility and Mobile Channel Data** - [Channel Characterization and Realization of Mobile Optical Wireless Communications](https://ieeexplore.ieee.org/abstract/document/9140033) by Zi-Yang Wu, Muhammad Ismail, Justin Kong, Erchin Serpedin and Jiao Wang, in _IEEE Transactions on Communications_, 2020.
+- **Joint Optimization on Baseband Algorithm and Base Station Planning** - [Optimized DFT-spread OFDM based visible light communications with multiple lighting sources](https://www.osapublishing.org/oe/abstract.cfm?uri=oe-25-22-26468) by Zi-Yang Wu, Yu-Liang Gao, Ze-Kun Wang, Chuan You, Chuang Yang, Chong Luo, and Jiao Wang, in _Optics Express_ 25, 26468-26482, 2017.
+- **Data-Driven HetNet Operation** - [Data-Driven Link Assignment With QoS Guarantee in Mobile RF-Optical HetNet of Things](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9007356&isnumber=9115800) by Zi-Yang Wu, Muhammad Ismail, Erchin Serpedin and Jiao Wang, in _IEEE Internet of Things Journal_, vol. 7, no. 6, pp. 5088-5102, June 2020.
+- [Efficient Integration of 5G and Beyond Heterogeneous Networks](https://link.springer.com/book/10.1007%2F978-981-15-6938-8) by Zi-Yang Wu, Muhammad Ismail, Justin Kong, Erchin Serpedin, and Jiao Wang, published in _Springer Nature_, 2020.
 
-```markdown
-Syntax highlighted code block
+[More reseaches](https://scholar.google.com.hk/citations?user=BDEsGscAAAAJ&hl=zh-CN)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aladdin-neu/aladdin.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+September 2020
