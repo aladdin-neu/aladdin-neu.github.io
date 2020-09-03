@@ -1,5 +1,3 @@
-# **Aladdin 阿拉丁神灯** 
-
 For collaborators: Please kindly [**upload**](https://github.com/aladdin-neu/Meeting-Documents) your documents. 
 
 ### Major Methodologies:
