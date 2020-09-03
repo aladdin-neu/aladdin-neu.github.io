@@ -1,5 +1,5 @@
-# **Aladdin 阿拉丁神灯** 
-## Future Networks Research 未来网络研究
+;# **Aladdin 阿拉丁神灯** 
+;## Future Networks Research 未来网络研究
 
 For collaborators: Please kindly [**upload**](https://github.com/aladdin-neu/Meeting-Documents) your documents. 
 
@@ -23,4 +23,4 @@ Circuit Theory, Complex Networks, and Data-Driven Approaches
 
 <center>Zi-Yang Wu 吴子扬, September 2020</center>
 
-<center>Northeastern University 东北大学, China<c/enter>
+<center>Northeastern University 东北大学, China</center>
