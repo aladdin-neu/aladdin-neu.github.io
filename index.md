@@ -1,5 +1,5 @@
-# **Aladdin** 
-## Future Communications Research
+# **Aladdin 阿拉丁神灯** 
+## Future Networks Research 未来网络研究
 
 For collaborators: Please kindly [**upload**](https://github.com/aladdin-neu/Meeting-Documents) your documents. 
 
