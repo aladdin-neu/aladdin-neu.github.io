@@ -1,6 +1,3 @@
-title: [The title of your site]
-description: [A short description of your site's purpose]
-
 # **Aladdin 阿拉丁神灯** 
 ## Future Networks Research 未来网络研究
 
