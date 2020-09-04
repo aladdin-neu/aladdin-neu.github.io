@@ -1,5 +1,9 @@
 # Call for Genies
-For collaborators: Please kindly [**upload**](https://github.com/aladdin-neu/Meeting-Documents) your documents. 
+! For collaborators: Please kindly [**upload**](https://github.com/aladdin-neu/Meeting-Documents) your documents. 
+
+! For collaborators: Please check [**Provisions**](https://github.com/aladdin-neu/Meeting-Documents/blob/master/%E6%9A%82%E8%A1%8C%E8%A7%84%E5%AE%9A.md).
+
+## Upcoming Routine Meeting: [Pending]
 
 ### Highlighted Methodologies:
 Circuit Theory, Complex Networks, and Data-Driven Approaches
