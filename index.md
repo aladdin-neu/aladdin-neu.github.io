@@ -8,7 +8,7 @@
 ### Highlighted Methodologies:
 Circuit Theory, Complex Networks, and Data-Driven Approaches
 
-### Fields of current interest:
+### Fields of Current Interest:
 - Optical Wireless Communications (OWC), especially Visible Light Communications (VLC).
 - Heterogeneous Networks (HetNet) via Multiple Wireless Mediums.
 - Indoor Positioning via Visible Light.
