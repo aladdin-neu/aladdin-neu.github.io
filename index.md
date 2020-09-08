@@ -13,6 +13,7 @@ Circuit Theory, Complex Networks, and Data-Driven Approaches
 - Optical Wireless Communications (OWC), especially Visible Light Communications (VLC). 无线光通信，尤其是可见光通信。
 - Heterogeneous Networks (HetNet) via Multiple Wireless Mediums. 多无线介质构成的异质网络。
 - Indoor Positioning via Visible Light. 室内定位：可见光方法。
+- Simultaneous Transmission of Energy and Information. 能量与信息的并发传输。
 - Intelligent Wireless Environment. 智能无线介质环境。
 - Cross-layer Optimization on Networks. 网络的跨层次优化。
 
