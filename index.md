@@ -3,7 +3,8 @@
 
 ! For **collaborators**: Please check [**Provisions**](https://github.com/aladdin-neu/Meeting-Documents/blob/master/%E6%9A%82%E8%A1%8C%E8%A7%84%E5%AE%9A.md).
 
-## Upcoming Routine Meeting: [2020-09-14 13:00 UTC+8]
+! For **collaborators**: Upcoming Routine Meeting: [2020-09-14 13:00 UTC+8]
+
 ## Breaking: **Best Paper Award 最佳论文奖** on 10th International Conference on Intelligent Systems (IS'20) - 2020.09.04
 
 ### Highlighted Methodologies:
