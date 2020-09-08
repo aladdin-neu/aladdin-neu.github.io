@@ -7,7 +7,7 @@
 ## News: **Best Paper Award 最佳论文奖** on 10th International Conference on Intelligent Systems (IS'20) 
 
 ### Highlighted Methodologies:
-Circuit Theory, Complex Networks, and Data-Driven Approaches
+Electronics and Circuit Theory 电子学与电路理论, Complex Networks 复杂网络, and Data-Driven Approaches 数据驱动方法
 
 ### Fields of Current Interest:
 - Optical Wireless Communications (OWC), especially Visible Light Communications (VLC). 无线光通信，尤其是可见光通信。
