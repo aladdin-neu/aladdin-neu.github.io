@@ -4,7 +4,7 @@
 ! For **collaborators**: Please check [**Provisions**](https://github.com/aladdin-neu/Meeting-Documents/blob/master/%E6%9A%82%E8%A1%8C%E8%A7%84%E5%AE%9A.md).
 
 ## Upcoming Routine Meeting: [2020-09-14 13:00 UTC+8]
-## News: **Best Paper Award 最佳论文奖** on 10th International Conference on Intelligent Systems (IS'20) 
+## News: **Best Paper Award 最佳论文奖** on 10th International Conference on Intelligent Systems (IS'20) - 2020.09.04
 
 ### Highlighted Methodologies:
 Electronics and Circuit Theory 电子学与电路理论, Complex Networks 复杂网络, and Data-Driven Approaches 数据驱动方法
