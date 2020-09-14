@@ -3,7 +3,7 @@
 
 ! For **collaborators**: Please check [**Provisions**](https://github.com/aladdin-neu/Meeting-Documents/blob/master/%E6%9A%82%E8%A1%8C%E8%A7%84%E5%AE%9A.md).
 
-! For **collaborators**: Upcoming Routine Meeting: [2020-09-14 19:00 UTC+8]
+! For **collaborators**: Upcoming Routine Meeting: [2020-09-14 13:00 UTC+8]
 
 ### Highlighted Methodologies:
 Electronics and Circuit Theory 电子学与电路理论, Ray-Tracing 光迹追踪, Complex Networks 复杂网络, and Data-Driven Approaches 数据驱动方法
