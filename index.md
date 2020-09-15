@@ -6,15 +6,15 @@
 ! For **collaborators**: Upcoming Routine Meeting: [2020-09-21 13:00 UTC+8]
 
 ### Highlighted Methodologies:
-Electronics and Circuit Theory 电子学与电路理论, Ray-Tracing 光迹追踪, Complex Networks 复杂网络, and Data-Driven Approaches 数据驱动方法
+Electronics and Circuit Theory, Ray-Tracing, Complex Networks and Data-Driven Approaches
 
 ### Fields of Current Interest:
-- Optical Wireless Communications (OWC), especially Visible Light Communications (VLC). 无线光通信，尤其是可见光通信。
-- Heterogeneous Networks (HetNet) via Multiple Wireless Mediums. 多无线介质构成的异质网络。
-- Indoor Positioning via Visible Light. 室内定位：可见光方法。
-- Simultaneous Transmission of Energy and Information. 能量与信息的并发传输。
-- Intelligent Wireless Environment. 智能无线介质环境。
-- Cross-layer Optimization on Networks. 网络的跨层次优化。
+- Optical Wireless Communications (OWC), especially Visible Light Communications (VLC).
+- Heterogeneous Networks (HetNet) via Multiple Wireless Mediums.
+- Indoor Positioning via Visible Light.
+- Simultaneous Transmission of Energy and Information.
+- Intelligent Wireless Environment.
+- Cross-layer Optimization on Networks.
 
 ### Featured Researches:
 - **Indoor Mobility and Mobile Channel Data 室内移动性与移动信道数据** - [Channel Characterization and Realization of Mobile Optical Wireless Communications](https://ieeexplore.ieee.org/abstract/document/9140033) by Zi-Yang Wu, Muhammad Ismail, Justin Kong, Erchin Serpedin and Jiao Wang, in _IEEE Transactions on Communications_, 2020.
