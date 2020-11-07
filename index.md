@@ -3,7 +3,7 @@
 
 ! For **collaborators**: Please check [**Provisions**](https://github.com/aladdin-neu/Meeting-Documents/blob/master/%E6%9A%82%E8%A1%8C%E8%A7%84%E5%AE%9A.md).
 
-! For **collaborators**: Upcoming Routine Meeting: [2020-10-16 13:00 UTC+8]
+! For **collaborators**: Upcoming Routine Meeting: [2020-11-09 18:30 UTC+8]
 
 ### Highlighted Methodologies:
 Electronics and Circuit Theory, Ray-Tracing, Complex Networks and Data-Driven Approaches
@@ -26,6 +26,6 @@ Electronics and Circuit Theory, Ray-Tracing, Complex Networks and Data-Driven Ap
 
 <center> - </center>
 
-<center>Zi-Yang Wu 吴子扬, October 2020</center>
+<center>Zi-Yang Wu 吴子扬, November 2020</center>
 
 <center>Northeastern University 东北大学, China</center>
