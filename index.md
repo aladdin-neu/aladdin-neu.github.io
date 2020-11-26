@@ -3,10 +3,13 @@
 
 ! For **collaborators**: Please check [**Provisions**](https://github.com/aladdin-neu/Meeting-Documents/blob/master/%E6%9A%82%E8%A1%8C%E8%A7%84%E5%AE%9A.md).
 
-! For **collaborators**: Upcoming Routine Meeting: [2020-11-09 18:30 UTC+8]
+! For **collaborators**: Upcoming Routine Meeting: [2020-11-30 18:30 UTC+8]
 
 ### Highlighted Methodologies:
-Electronics and Circuit Theory, Ray-Tracing, Complex Networks and Data-Driven Approaches
+- Data-Driven Network Management Approaches (Reinforcement Learning, Deep Learning)
+- Physical Engine and Computational Graphics (Ray-Tracing)
+- Theory on Electronics, Circuit, and Information
+- Complex Networks 
 
 ### Fields of Current Interest:
 - Optical Wireless Communications (OWC), especially Visible Light Communications (VLC).
