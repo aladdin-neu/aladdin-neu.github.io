@@ -3,7 +3,7 @@
 ### Highlighted Methodologies:
 - Reinforcement Learning and Autoencoder for Data-Driven Intelligent Mobile Networks
 - Physical Engine and Ray-Tracing in Computational Graphics
-- Circuits Feedbacks and Systems
+- Circuits, Feedbacks and Systems
 
 ### Fields of Current Interest:
 - Semantic Communications
