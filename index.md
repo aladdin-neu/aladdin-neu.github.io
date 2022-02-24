@@ -8,21 +8,22 @@ entries_layout: list
 
 ![center-aligned-image](/images/banner.png){: .align-center}
 
-# Zi-Yang Wu 吴子扬
+# Principal Investigator: Zi-Yang Wu 吴子扬
 
-### Highlighted Methodologies:
-- Reinforcement Learning and Autoencoder for Data-Driven Intelligent Mobile Networks
-- Physical Engine and Ray-Tracing in Computational Graphics
-- Circuits, Feedbacks and Systems
+### Highlighted Methodologies 主要研究方法:
+- Reinforcement Learning and Autoencoder for Intelligent Mobile Networks 强化学习与自编码驱动的智能移动网络
+- Physical Engine and Ray-Tracing in Computational Graphics 物理引擎与射线追踪
+- Circuits, Feedbacks and Systems 电路、反馈以及系统
 
-### Fields of Current Interest:
-- Semantic Communications
+### Fields of Current Interest 目前关注领域:
+- Semantic Communications 
 - 1-bit-ADC/DAC Communication Systems
 - Smart Wireless Channel and Intelligent Wireless Environment
 - Heterogeneous Networks (HetNet) via B5G/6G Wireless Mediums
 - Optical Wireless Communications (OWC), especially Visible Light Communications (VLC)
+- Neuromorphic EDA
 
-### Featured Researches:
+### Featured Researches 代表性研究工作:
 
 **>> Mobility and Mobile Channel Data 移动性与移动信道数据** 
 
