@@ -1,13 +1,12 @@
 ---
-title: "Aladdin Empowered Future Networks 阿拉丁神灯·未来互联"
+title: "Call for Genies"
 layout: home
 limit: 10
 show_excerpts: true
 entries_layout: list
-image: 
-  path: /images/banner.png
 ---
 
+![center-aligned-image](banner.jpg){: .align-center}
 
 # Zi-Yang Wu 吴子扬
 
