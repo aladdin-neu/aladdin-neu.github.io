@@ -1,18 +1,20 @@
 # Call for Genies
 
 ### Highlighted Methodologies:
-- Data-Driven Network Optimizations (Reinforcement Learning, Deep Learning)
-- Physical Engine and Computational Graphics (Ray-Tracing)
-- Electronics, Circuit, and Information
+- Reinforcement Learning and Autoencoder for Data-Driven Intelligent Mobile Networks
+- Physical Engine and Ray-Tracing in Computational Graphics
+- Circuits Feedbacks and Systems
 
 ### Fields of Current Interest:
-- Intelligent Wireless Environment.
-- Heterogeneous Networks (HetNet) via Multiple Wireless Mediums.
-- Optical Wireless Communications (OWC), especially Visible Light Communications (VLC).
+- Semantic Communications
+- 1-bit-ADC/DAC Communication Systems
+- Smart Wireless Channel and Intelligent Wireless Environment
+- Heterogeneous Networks (HetNet) via B5G/6G Wireless Mediums
+- Optical Wireless Communications (OWC), especially Visible Light Communications (VLC)
 
 ### Featured Researches:
 
-**>> Indoor Mobility and Mobile Channel Data 室内移动性与移动信道数据** 
+**>> Mobility and Mobile Channel Data 移动性与移动信道数据** 
 
   - [Channel Characterization and Realization of Mobile Optical Wireless Communications](https://ieeexplore.ieee.org/abstract/document/9140033) by Zi-Yang Wu, Muhammad Ismail, Justin Kong, Erchin Serpedin and Jiao Wang, in _IEEE Transactions on Communications_, 2020.
   
@@ -31,6 +33,5 @@
 <center> - </center>
 
 <center>Zi-Yang Wu 吴子扬, March 2022</center>
-
 
 <center>Northeastern University 东北大学, China</center>
