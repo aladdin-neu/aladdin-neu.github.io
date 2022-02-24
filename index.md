@@ -1,5 +1,5 @@
 ---
-title: "Zi-Yang Wu 吴子扬"
+title: "Aladdin Empowered Future Networks 阿拉丁神灯·未来互联"
 layout: home
 limit: 10
 show_excerpts: true
@@ -9,7 +9,7 @@ image:
 ---
 
 
-# Call for Genies
+# Zi-Yang Wu 吴子扬
 
 ### Highlighted Methodologies:
 - Reinforcement Learning and Autoencoder for Data-Driven Intelligent Mobile Networks
