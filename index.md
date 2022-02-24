@@ -6,7 +6,7 @@ show_excerpts: true
 entries_layout: list
 ---
 
-![center-aligned-image](/images/bannerSL.png){: .align-center}
+![center-aligned-image](/images/banner.png){: .align-center}
 
 # Principal Investigator: Zi-Yang Wu 吴子扬
 
