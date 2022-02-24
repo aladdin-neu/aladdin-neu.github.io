@@ -29,11 +29,11 @@ entries_layout: list
 
   - [Channel Characterization and Realization of Mobile Optical Wireless Communications](https://ieeexplore.ieee.org/abstract/document/9140033) by Zi-Yang Wu, Muhammad Ismail, Justin Kong, Erchin Serpedin and Jiao Wang, in _IEEE Transactions on Communications_, 2020.
   
-**>> Joint Optimization on Baseband Algorithm and Base Station Planning 基带算法与基站规划的联合优化** 
+**>> Joint Optimization on Baseband and Base Station 基带与基站的联合优化** 
   
   - [Optimized DFT-spread OFDM based visible light communications with multiple lighting sources](https://www.osapublishing.org/oe/abstract.cfm?uri=oe-25-22-26468) by Zi-Yang Wu, Yu-Liang Gao, Ze-Kun Wang, Chuan You, Chuang Yang, Chong Luo, and Jiao Wang, in _Optics Express_, 2017.
   
-**>> Data-Driven HetNet Operation 数据驱动的异质网络运筹** 
+**>> Data-Driven HetNet Optimization 数据驱动的异质网络优化** 
   
   - [Data-Driven Link Assignment With QoS Guarantee in Mobile RF-Optical HetNet of Things](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9007356&isnumber=9115800) by Zi-Yang Wu, Muhammad Ismail, Erchin Serpedin and Jiao Wang, in _IEEE Internet of Things Journal_, 2020. **Best Paper Award 最佳论文奖** on 10th International Conference on Intelligent Systems (IS'20)
   
