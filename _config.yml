@@ -31,7 +31,7 @@ mathjax:
   combo:  # "tex-svg" (default), "tex-mml-chtml", etc.: docs.mathjax.org/en/latest/web/components/combined.html
   tags:  # "none", "ams" (default), "all"
 google_fonts:
-  - name: "Source Serif" # Source San Pro
+  - name: "Source Sans Serif" # Source Sans Pro
     weights: "400,400i,700,700i"
   - name: "Lora"
     weights: "400,400i,700,700i"
@@ -91,13 +91,13 @@ defaults:
       share: true
 
 # Site Author
-author: "Zi-Yang Wu 吴子扬"
-  name: "March 2022"
+author:
+  name:
   picture:
   email:
   twitter:
   links:
-    - title: "Northeastern University 东北大学, China"
+    - title:
       url:
       icon:
 
