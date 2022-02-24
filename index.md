@@ -1,7 +1,7 @@
 ---
 title: "Call for Genies"
 layout: home
-limit: 10
+limit: 15
 show_excerpts: true
 entries_layout: list
 ---
