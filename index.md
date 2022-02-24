@@ -6,7 +6,7 @@ show_excerpts: true
 entries_layout: list
 ---
 
-![center-aligned-image](banner.jpg){: .align-center}
+![center-aligned-image](/images/banner.jpg){: .align-center}
 
 # Zi-Yang Wu 吴子扬
 
