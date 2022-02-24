@@ -1,5 +1,6 @@
-#theme: jekyll-theme-cayman
-theme: jekyll-theme-so-simple
+# theme: jekyll-theme-cayman
+# theme: jekyll-theme-so-simple
+remote_theme: "mmistakes/so-simple-theme@3.2.0"
 title: Aladdin 阿拉丁神灯
 description: Empowering Future Networks 赋能未来网络
 google_analytics: [UA-177545687-1]
