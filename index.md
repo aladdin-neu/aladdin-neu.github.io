@@ -5,7 +5,7 @@ limit: 10
 show_excerpts: true
 entries_layout: list
 image: 
-  path: /images/bannerA.png
+  path: /images/banner.png
 ---
 
 
